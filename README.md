@@ -54,8 +54,6 @@ Refer to [Quick Start 🚀](#quick-start) section to set up the development envi
 
 ### Social Media
 
-Facebook: <https://www.facebook.com/MACBITSGoa/>
-
 Instagram: <https://www.instagram.com/devsocbitsgoa>
 
 Devsoc's Website: <https://devsoc.club/>
