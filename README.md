@@ -60,7 +60,7 @@ Devsoc's Website: <https://devsoc.club/>
 
 ### Slack Community 
 
-Here's the link to our slack community under QOSP:
+Here's the link to our slack community under QOSI:
 
 <a href = "https://quarkopensour-wne8586.slack.com/join/shared_invite/zt-g108dg34-qW7vhZcLLCkJlc5xlFby9Q#/"><img width="200" alt="portfolio_view" src="https://a.slack-edge.com/4a5c4/marketing/img/icons/icon_slack.svg"></a>
 
