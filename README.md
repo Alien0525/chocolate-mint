@@ -1,6 +1,6 @@
 <img width="100" alt="portfolio_view" src="https://devsoc.club/assets/img/logo.png">
 
-# [CHOCOLATE MINT BY DEVSOC]
+# CHOCOLATE MINT BY DEVSOC
 
  ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
