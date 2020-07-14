@@ -6,7 +6,7 @@
 
 ## About
 
-Choclate Mint is a Command Line slang generator that let's user shorten their long command line code and generate a custom command line code for it.
+Chocolate Mint is a Command Line slang generator that let's user shorten their long command line code and generate a custom command line code for it.
 
 ## Table of Contents
 - [Quick Start 🚀](#quick-start)
